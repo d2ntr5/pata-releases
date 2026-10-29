@@ -3,18 +3,17 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.4</title>
-      <pubDate>Thu, 29 Oct 2026 16:43:03 GMT</pubDate>
-      <sparkle:version>50</sparkle:version>
-      <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+      <title>Pata 0.7.5</title>
+      <pubDate>Thu, 29 Oct 2026 16:48:55 GMT</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.4</h2>
+      <description><![CDATA[<h2>Pata 0.7.5</h2>
 <ul>
-<li>설정 칸 제목을 아이콘 + 굵은 글씨(머리 색)로 — 칸끼리 구분이 잘 되게</li>
-<li>사이드바 고른 줄도 머리 색으로 (예전엔 시스템 파란색)</li>
-<li>설정 › 업데이트: 업데이트한 뒤에도 ‘최신 버전입니다’ 로 보이게</li>
+<li>화면 모양(시스템 따라 · 밝게 · 어둡게) 고르기 없앰 — 늘 밝게</li>
+<li>사이드바가 좁아져 메뉴 글자가 두 줄로 꺾이던 것 고침</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.4.zip" length="2925334" type="application/octet-stream" sparkle:edSignature="i5C5hvtf1KlNiDk21JprijXHFEbtu1Hs7a09WNRzreucKSqGc/jJkuLC7b4JMRkAmeR9XtT0TeHbzCAoRtpSDA=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.5.zip" length="2915081" type="application/octet-stream" sparkle:edSignature="eS0qi+SMvuJvDUYlcooh/2O4mxVzCzt/bhELMWbVi/wVDA+ZN84pHtDxO/G/4hklu2ck4pIUM2YIObqztA+GCQ=="/>
     </item>
   </channel>
 </rss>
