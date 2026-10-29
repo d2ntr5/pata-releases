@@ -3,18 +3,17 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.1</title>
-      <pubDate>Thu, 29 Oct 2026 16:11:25 GMT</pubDate>
-      <sparkle:version>47</sparkle:version>
-      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <title>Pata 0.7.2</title>
+      <pubDate>Thu, 29 Oct 2026 16:21:42 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.1</h2>
+      <description><![CDATA[<h2>Pata 0.7.2</h2>
 <ul>
-<li>창 맨 위 머리 색 띠: 로고 · Pata · 버전 · 설정 단추, 오른쪽에 상태(캡처 · 변환 · 크롬 준비됨 · 새 버전) — 창 제목 막대까지 같은 색, 끌어서 창 옮기기</li>
-<li>설정 › 화면 › 머리 색 9가지 (청록 기본 · 파랑 · 남색 · 보라 · 자주 · 다홍 · 호박 · 초록 · 먹색), 밝게·어둡게 따로 맞춤</li>
-<li>‘사이드바 · 주 단추에도 같은 색’ — 사이드바 바탕과 주 단추도 머리 색으로 (끄면 머리만)</li>
+<li>설정을 두 칸으로 (왼쪽: 화면 · 업데이트 · 바뀐 점 · 크롬 · 저장된 값, 오른쪽: 캡처 · 대기열 · 목록 없이 캡처 · 파일) — 넓은 창에서 옆 여백을 쓰고 세로 스크롤을 줄임</li>
+<li>머리 색 견본을 한 줄에 작게, 사이드바 메뉴가 머리 띠에 붙지 않게 위 여백</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.1.zip" length="2984869" type="application/octet-stream" sparkle:edSignature="pQBjX1O04ZPW/c10CPPAyP8GgXaMiS1CQPfcwQX6QhAYE15XCaRsBt2cUnnrbqWNILk/O4lNnZXhEnx/zhfQBw=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.2.zip" length="2990144" type="application/octet-stream" sparkle:edSignature="SNiarNeAwAU7gGvxPBJmfGsWMCkgeKMi6Lw1chbEbt7Pvf5jz83sHj/afSb77hVPWKC//iHyXNM0Yb1801YUAg=="/>
     </item>
   </channel>
 </rss>
