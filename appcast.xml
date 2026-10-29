@@ -3,19 +3,18 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.3</title>
-      <pubDate>Thu, 29 Oct 2026 16:36:17 GMT</pubDate>
-      <sparkle:version>49</sparkle:version>
-      <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+      <title>Pata 0.7.4</title>
+      <pubDate>Thu, 29 Oct 2026 16:43:03 GMT</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.3</h2>
+      <description><![CDATA[<h2>Pata 0.7.4</h2>
 <ul>
-<li>캡처 화면(목록 없이 캡처 · 크롬 탭 가져오기 · 주소 붙여넣기) 없앰 — 캡처는 내 목록에서. 처음 화면은 내 목록</li>
-<li>내 목록 왼쪽 위 ‘전체 새 링크 확인’ 단추 — 보관하지 않은 목록을 모두 차례로 확인 (도는 동안 ‘N개 남음’), 메뉴 막대도 같은 이름</li>
-<li>설정 ‘목록 없이 캡처할 때’ · ‘파일’ → ‘새 목록 기본값’ (기본 숨김 규칙 · 기본 로그인 · 저장 폴더)</li>
-<li>알림 한 줄(대기열에 넣음 · 로그인 · 오류)을 모든 화면 위에 — 예전엔 캡처 화면에서만 보였음, ✕ 로 닫기</li>
+<li>설정 칸 제목을 아이콘 + 굵은 글씨(머리 색)로 — 칸끼리 구분이 잘 되게</li>
+<li>사이드바 고른 줄도 머리 색으로 (예전엔 시스템 파란색)</li>
+<li>설정 › 업데이트: 업데이트한 뒤에도 ‘최신 버전입니다’ 로 보이게</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.3.zip" length="2921533" type="application/octet-stream" sparkle:edSignature="NXnuwNcPX8CstCBfn5W95zzSkRdw94vL5MfqGru1sHI8fpaB1hixANiq62yni/X3IogV6uFx5sDavEBW6pRSDw=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.4.zip" length="2925334" type="application/octet-stream" sparkle:edSignature="i5C5hvtf1KlNiDk21JprijXHFEbtu1Hs7a09WNRzreucKSqGc/jJkuLC7b4JMRkAmeR9XtT0TeHbzCAoRtpSDA=="/>
     </item>
   </channel>
 </rss>
