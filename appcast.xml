@@ -3,16 +3,16 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.7</title>
-      <pubDate>Thu, 29 Oct 2026 17:05:18 GMT</pubDate>
-      <sparkle:version>53</sparkle:version>
-      <sparkle:shortVersionString>0.7.7</sparkle:shortVersionString>
+      <title>Pata 0.7.8</title>
+      <pubDate>Thu, 29 Oct 2026 17:10:18 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.7.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.7</h2>
+      <description><![CDATA[<h2>Pata 0.7.8</h2>
 <ul>
-<li>새 링크 확인 중인 목록을 열어 두면 오른쪽 회차 목록에 커서(▶ · 진하게 · ‘확인 중 · N개째’)가 모은 수만큼 페이지 순서대로 내려가고 화면도 따라감, 지나간 줄은 옅게</li>
+<li>새 링크 확인이 목록을 하나씩 넘어갈 때 오른쪽 회차 목록도 그 목록으로 바뀌고, 회차 커서가 따라 내려감 — 전체 새 링크 확인 · 목록의 새 링크 확인 · 새 링크 바로 캡처 때 (앱 켤 때·매일 자동 확인은 보던 목록 그대로)</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.7.zip" length="2954626" type="application/octet-stream" sparkle:edSignature="wBe3hj8j1WDOnH587s4rAmRDlcO+wRQhRe1dDtlaghCekMRwAPj3ZdT12/SUiBoJUPaqR3fWbWXifY/+aptJDw=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.8.zip" length="2955183" type="application/octet-stream" sparkle:edSignature="LCVW4Q78l/Fz2MSJDQzrklVcm27iNYcn7PgQu8D1+a5qlOBS8rVW6vQQe1k5Eq1MXdHdK8IKQdwFWLU6PeDWDg=="/>
     </item>
   </channel>
 </rss>
