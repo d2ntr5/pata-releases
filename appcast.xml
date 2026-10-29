@@ -3,16 +3,16 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.9</title>
-      <pubDate>Thu, 29 Oct 2026 17:15:21 GMT</pubDate>
-      <sparkle:version>55</sparkle:version>
-      <sparkle:shortVersionString>0.7.9</sparkle:shortVersionString>
+      <title>Pata 0.7.10</title>
+      <pubDate>Thu, 29 Oct 2026 17:18:50 GMT</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>0.7.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.9</h2>
+      <description><![CDATA[<h2>Pata 0.7.10</h2>
 <ul>
-<li>‘멈추고 지금 설치’ 가 새 링크 확인 중이면 설치되지 않던 것 고침 — 캡처·변환을 멈추고 남은 새 링크 확인을 비운 뒤 최대 8초 안에 설치 (하던 캡처·변환은 다시 켜진 뒤 다시 대기로)</li>
+<li>새 링크 확인 중 회차 커서가 움직이지 않던 것 고침 — 모은 수 대신 크롬 화면 아래 끝까지 내려온 회차를 따라감 (처음부터 모든 회차가 페이지에 있는 목록도)</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.9.zip" length="2955957" type="application/octet-stream" sparkle:edSignature="aeSWysgGZLfC1I9rxMKCwzjx6sy3hIR5Ujvci1nnuqMD6hPYljaZtz+kUwOeJSgX64yLuuOvBbYUnLv1KTXxAg=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.10.zip" length="2960499" type="application/octet-stream" sparkle:edSignature="07e3FXMMxDW0ULVnNAhC1cYHkzh/zkRXfkg3FtOxy+YD1na4HHg3iThGpSJRD8dkHThfvKh5+s+Ft7cVDhODBQ=="/>
     </item>
   </channel>
 </rss>
