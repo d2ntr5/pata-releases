@@ -3,17 +3,19 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.5</title>
-      <pubDate>Thu, 29 Oct 2026 16:48:55 GMT</pubDate>
-      <sparkle:version>51</sparkle:version>
-      <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
+      <title>Pata 0.7.6</title>
+      <pubDate>Thu, 29 Oct 2026 16:55:54 GMT</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.5</h2>
+      <description><![CDATA[<h2>Pata 0.7.6</h2>
 <ul>
-<li>화면 모양(시스템 따라 · 밝게 · 어둡게) 고르기 없앰 — 늘 밝게</li>
-<li>사이드바가 좁아져 메뉴 글자가 두 줄로 꺾이던 것 고침</li>
+<li>새 링크 확인 중인 목록 카드: 옅은 머리 색 바탕 · 테두리를 도는 빛 · 진행 글자 · 왔다 갔다 하는 막대 · ‘확인 중’ 칩</li>
+<li>확인을 기다리는 카드는 점선 테두리 · 흐리게 · ‘대기 N’ (차례 번호)</li>
+<li>확인이 끝나면 5초 동안 결과: ‘새 N개!’ (초록) · 새 링크 없음 · 덜 모임 (주황) · 확인 실패 (빨강)</li>
+<li>고른 목록 카드 테두리도 머리 색으로</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.5.zip" length="2915081" type="application/octet-stream" sparkle:edSignature="eS0qi+SMvuJvDUYlcooh/2O4mxVzCzt/bhELMWbVi/wVDA+ZN84pHtDxO/G/4hklu2ck4pIUM2YIObqztA+GCQ=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.6.zip" length="2943763" type="application/octet-stream" sparkle:edSignature="HMgNNeZ76i1Feh25+wareQMQqcdbzL2ufJCfCJDWv5neec/o5dKJrj+OP91yM3zQIGIyWQjPSbYiHALcRwEEBg=="/>
     </item>
   </channel>
 </rss>
