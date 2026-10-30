@@ -3,16 +3,16 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.10</title>
-      <pubDate>Thu, 29 Oct 2026 17:18:50 GMT</pubDate>
-      <sparkle:version>56</sparkle:version>
-      <sparkle:shortVersionString>0.7.10</sparkle:shortVersionString>
+      <title>Pata 0.7.11</title>
+      <pubDate>Fri, 30 Oct 2026 16:15:35 GMT</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.7.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.10</h2>
+      <description><![CDATA[<h2>Pata 0.7.11</h2>
 <ul>
-<li>새 링크 확인 중 회차 커서가 움직이지 않던 것 고침 — 모은 수 대신 크롬 화면 아래 끝까지 내려온 회차를 따라감 (처음부터 모든 회차가 페이지에 있는 목록도)</li>
+<li>소스로 자동 채우기: 소스·회차 주소를 넣을 때마다 창이 화면보다 길어져 위가 비고 단추가 화면 밖으로 밀리던 문제 고침</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.10.zip" length="2960499" type="application/octet-stream" sparkle:edSignature="07e3FXMMxDW0ULVnNAhC1cYHkzh/zkRXfkg3FtOxy+YD1na4HHg3iThGpSJRD8dkHThfvKh5+s+Ft7cVDhODBQ=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.11.zip" length="2961119" type="application/octet-stream" sparkle:edSignature="xtMigZwpTi12DJkpGk8vxdsQSD+7dzk2XsYDdnCttFbyXsQUCGhF1JS9olg2/qe8nH9mkufaX8rO0hhMhXGdAg=="/>
     </item>
   </channel>
 </rss>
