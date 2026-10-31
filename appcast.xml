@@ -3,16 +3,16 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.15</title>
-      <pubDate>Sat, 31 Oct 2026 11:32:13 GMT</pubDate>
-      <sparkle:version>65</sparkle:version>
-      <sparkle:shortVersionString>0.7.15</sparkle:shortVersionString>
+      <title>Pata 0.7.16</title>
+      <pubDate>Sat, 31 Oct 2026 18:00:45 GMT</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>0.7.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.15</h2>
+      <description><![CDATA[<h2>Pata 0.7.16</h2>
 <ul>
-<li>새 링크 확인 중 회차 커서를 줄 순서가 아니라 회차 주소로 찍음 — 새 회차가 위에 붙어 있어도 커서가 한두 줄 앞서 보이던 것 고침</li>
+<li>설정 › 정보에 설정 파일: 설정 내보내기… 로 캡처 · 대기열 설정, 기본 숨김 규칙, 화면, 변환 프로필을 JSON 파일 하나로 저장, 설정 가져오기… 로 다른 맥에서 되살림 (내 목록 · 로그인 · 크롬 위치는 그대로)</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.15.zip" length="3018560" type="application/octet-stream" sparkle:edSignature="tzCXqay5ZIJTVBrjpd03CJNVgO8jrE4AaKM5aNXi2XDIRee90sDKION73KjPPhmoSaL6C3flCeFgNcvLg5KfCA=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.16.zip" length="3032972" type="application/octet-stream" sparkle:edSignature="gG9W3K1tAJvLf/2wsa5QxAshuXka4/7YMG2JiiXM67QZ2qYVQGGcQXjl4uG+i40swiGsGVJNu93APfjvjbr/AQ=="/>
     </item>
   </channel>
 </rss>
