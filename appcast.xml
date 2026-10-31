@@ -3,16 +3,18 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.16</title>
-      <pubDate>Sat, 31 Oct 2026 18:00:45 GMT</pubDate>
-      <sparkle:version>68</sparkle:version>
-      <sparkle:shortVersionString>0.7.16</sparkle:shortVersionString>
+      <title>Pata 0.7.17</title>
+      <pubDate>Sat, 31 Oct 2026 18:27:45 GMT</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>0.7.17</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.16</h2>
+      <description><![CDATA[<h2>Pata 0.7.17</h2>
 <ul>
-<li>설정 › 정보에 설정 파일: 설정 내보내기… 로 캡처 · 대기열 설정, 기본 숨김 규칙, 화면, 변환 프로필을 JSON 파일 하나로 저장, 설정 가져오기… 로 다른 맥에서 되살림 (내 목록 · 로그인 · 크롬 위치는 그대로)</li>
+<li>설정 내보내기에 내 목록(모은 링크 · 캡처 기록 · 목록 설정) · 로그인 저장 공간 · 대기열까지 모두 — 가져오면 다른 맥을 똑같이 맞춤 (0.7.16 은 앱 설정만 담았음)</li>
+<li>가져오기 전에 지금 값을 백업에 남김 (설정 › 정보 › 초기화… › 백업에서 되돌리기)</li>
+<li>로그인 쿠키는 옮길 수 없어 가져온 뒤 로그인 창에서 다시 로그인</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.16.zip" length="3032972" type="application/octet-stream" sparkle:edSignature="gG9W3K1tAJvLf/2wsa5QxAshuXka4/7YMG2JiiXM67QZ2qYVQGGcQXjl4uG+i40swiGsGVJNu93APfjvjbr/AQ=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.17.zip" length="3041838" type="application/octet-stream" sparkle:edSignature="G3HqDRLwcfF84PstrT9qZbx9tBWEzz3rduXQCExNGL8fGuUYlSjsmqkhy6cNQOoCJuZVcjjCqEtgM7g8PT2KCQ=="/>
     </item>
   </channel>
 </rss>
