@@ -3,18 +3,17 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.12</title>
-      <pubDate>Sat, 31 Oct 2026 01:20:46 GMT</pubDate>
-      <sparkle:version>61</sparkle:version>
-      <sparkle:shortVersionString>0.7.12</sparkle:shortVersionString>
+      <title>Pata 0.7.13</title>
+      <pubDate>Sat, 31 Oct 2026 05:32:18 GMT</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>0.7.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.12</h2>
+      <description><![CDATA[<h2>Pata 0.7.13</h2>
 <ul>
-<li>설정이 사이드바 화면에서 팝업으로: 머리 띠 톱니 단추 · ⌘, · 메뉴 막대 › 설정… 으로 열고 완료 · esc 로 닫기</li>
-<li>설정 팝업은 탭 네 개 (일반 · 캡처 · 새 목록 · 정보) — 굵은 제목 · 연회색 상자 · 설명은 아래 따로 둔 상자로 정리</li>
-<li>앱 업데이트에 지금 버전 표시, 머리 띠의 새 버전 · 크롬 못 찾음 알약을 누르면 설정 › 일반이 열림</li>
+<li>설정이 따로 뜨는 창으로: 끌어서 옮길 수 있고, 열어 둔 채 본 창을 계속 쓸 수 있음 (완료 · esc 로 닫기)</li>
+<li>설정 창 높이를 가장 긴 탭에 맞춰 어느 탭도 스크롤이 생기지 않게, 탭을 바꿔도 창 크기가 그대로</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.12.zip" length="3004535" type="application/octet-stream" sparkle:edSignature="61x/rZLru8bPOYBZmN3xt3r8Jbt9UvWxGUoD5rgKNHpkSGfpxi/dWjT9IqA93EAV2Ue1gXrJWZRGKdSzjnThBQ=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.13.zip" length="3012903" type="application/octet-stream" sparkle:edSignature="+OSX2/yisstC4n8NrHOik0PeJtrRLoVFdk/NjDed3baCeMevG+0PZbLSp696xLwf1I36VVVj0VeGHr+TvzWwDQ=="/>
     </item>
   </channel>
 </rss>
