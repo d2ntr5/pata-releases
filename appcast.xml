@@ -3,16 +3,18 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.11</title>
-      <pubDate>Fri, 30 Oct 2026 16:15:35 GMT</pubDate>
-      <sparkle:version>59</sparkle:version>
-      <sparkle:shortVersionString>0.7.11</sparkle:shortVersionString>
+      <title>Pata 0.7.12</title>
+      <pubDate>Sat, 31 Oct 2026 01:20:46 GMT</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>0.7.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.11</h2>
+      <description><![CDATA[<h2>Pata 0.7.12</h2>
 <ul>
-<li>소스로 자동 채우기: 소스·회차 주소를 넣을 때마다 창이 화면보다 길어져 위가 비고 단추가 화면 밖으로 밀리던 문제 고침</li>
+<li>설정이 사이드바 화면에서 팝업으로: 머리 띠 톱니 단추 · ⌘, · 메뉴 막대 › 설정… 으로 열고 완료 · esc 로 닫기</li>
+<li>설정 팝업은 탭 네 개 (일반 · 캡처 · 새 목록 · 정보) — 굵은 제목 · 연회색 상자 · 설명은 아래 따로 둔 상자로 정리</li>
+<li>앱 업데이트에 지금 버전 표시, 머리 띠의 새 버전 · 크롬 못 찾음 알약을 누르면 설정 › 일반이 열림</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.11.zip" length="2961119" type="application/octet-stream" sparkle:edSignature="xtMigZwpTi12DJkpGk8vxdsQSD+7dzk2XsYDdnCttFbyXsQUCGhF1JS9olg2/qe8nH9mkufaX8rO0hhMhXGdAg=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.12.zip" length="3004535" type="application/octet-stream" sparkle:edSignature="61x/rZLru8bPOYBZmN3xt3r8Jbt9UvWxGUoD5rgKNHpkSGfpxi/dWjT9IqA93EAV2Ue1gXrJWZRGKdSzjnThBQ=="/>
     </item>
   </channel>
 </rss>
