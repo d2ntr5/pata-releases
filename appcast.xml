@@ -3,17 +3,16 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.14</title>
-      <pubDate>Sat, 31 Oct 2026 06:09:43 GMT</pubDate>
-      <sparkle:version>64</sparkle:version>
-      <sparkle:shortVersionString>0.7.14</sparkle:shortVersionString>
+      <title>Pata 0.7.15</title>
+      <pubDate>Sat, 31 Oct 2026 11:32:13 GMT</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>0.7.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>Pata 0.7.14</h2>
+      <description><![CDATA[<h2>Pata 0.7.15</h2>
 <ul>
-<li>설정 › 정보 맨 위에 앱 업데이트 (지금 버전 · 자동으로 업데이트 확인 · 업데이트 확인…) — 일반에서 옮김</li>
-<li>머리 띠의 ‘새 버전’ 알약을 누르면 설정 › 정보가 열림</li>
+<li>새 링크 확인 중 회차 커서를 줄 순서가 아니라 회차 주소로 찍음 — 새 회차가 위에 붙어 있어도 커서가 한두 줄 앞서 보이던 것 고침</li>
 </ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.14.zip" length="3013680" type="application/octet-stream" sparkle:edSignature="o8sT17P+qwcaywvE13VfzxWZ64iMvwk+1cWrCN6PHlZ0JQbyCyfGesiNchnHqVHeUcjoZq8EVMVzm6qYqE8LCQ=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.15.zip" length="3018560" type="application/octet-stream" sparkle:edSignature="tzCXqay5ZIJTVBrjpd03CJNVgO8jrE4AaKM5aNXi2XDIRee90sDKION73KjPPhmoSaL6C3flCeFgNcvLg5KfCA=="/>
     </item>
   </channel>
 </rss>
