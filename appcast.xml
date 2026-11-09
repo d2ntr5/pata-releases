@@ -3,10 +3,10 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.39</title>
-      <pubDate>Mon, 09 Nov 2026 22:47:20 GMT</pubDate>
-      <sparkle:version>103</sparkle:version>
-      <sparkle:shortVersionString>0.7.39</sparkle:shortVersionString>
+      <title>Pata 0.7.40</title>
+      <pubDate>Mon, 09 Nov 2026 23:30:05 GMT</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>0.7.40</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,7 +19,8 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .older { display: block; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
-<section data-sparkle-version="103"><h3>Pata 0.7.39<span class="badge">설치할 버전</span><small>2026-11-10</small></h3><ul><li>진행 · 기록 › 끝난 것을 목록(작품)별 묶음으로 — 묶음 머리를 눌러 펼치고 접음, 처음엔 모두 접힘(펼친 상태는 앱을 켜 둔 동안 기억), ‘모두 펼치기 · 모두 접기’</li><li>묶음 머리에 목록 이름 · 마지막 회차 · 끝난 시각 · 끝 N화 · part 합계 · 실패 · 멈춤 · 건너뜀 수, 그 목록이 아직 캡처 중이면 ‘캡처 중 N화’</li><li>실패 · 멈춘 회차는 묶음이 접혀 있어도 머리 아래에 보임</li></ul><p class="older">v0.7.39 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
+<section data-sparkle-version="104"><h3>Pata 0.7.40<span class="badge">설치할 버전</span><small>2026-11-10</small></h3><ul><li>내 목록 정렬 — 기본(만든 순서, 새 목록이 맨 위) · 이름 ↑ · 이름 ↓, 이름은 사람이 읽는 순서(「2화」 &lt; 「10화」), 고른 정렬은 다음에 켜도 유지</li><li>파일 이름 바꾸기: 실행 단추를 ‘저장 폴더 · 파일 이름’ 카드 왼쪽에 크게</li><li>파일 이름 바꾸기 진행 창 — 진행 바 · n / 전체 · 지금 파일 이름, 끝나면 바꾼 수 · 건너뜀 · 실패와 ‘닫기’. 준비하는 동안 ‘중지’ 하면 옮기던 파일을 원래 이름으로 되돌림, 바꾸기는 화면이 멈추지 않게 따로 도는 줄에서</li><li>글씨가 클 때 창이 좁으면 사이드바가 내 목록 칸을 덮던 문제 — 본 창 최소 폭을 내용에 맞춤</li></ul><p class="older">v0.7.40 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
+<section data-sparkle-version="103"><h3>Pata 0.7.39<small>2026-11-10</small></h3><ul><li>진행 · 기록 › 끝난 것을 목록(작품)별 묶음으로 — 묶음 머리를 눌러 펼치고 접음, 처음엔 모두 접힘(펼친 상태는 앱을 켜 둔 동안 기억), ‘모두 펼치기 · 모두 접기’</li><li>묶음 머리에 목록 이름 · 마지막 회차 · 끝난 시각 · 끝 N화 · part 합계 · 실패 · 멈춤 · 건너뜀 수, 그 목록이 아직 캡처 중이면 ‘캡처 중 N화’</li><li>실패 · 멈춘 회차는 묶음이 접혀 있어도 머리 아래에 보임</li></ul><p class="older">v0.7.39 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="102"><h3>Pata 0.7.38<small>2026-11-10</small></h3><ul><li>외전 · 예고편(레진 p0 · e1 · x1 처럼 글자+숫자 주소)이 번호 회차 묶음에 함께 들어감 — 따로 ‘기타’ 로 빠져, ‘기타’ 를 고른 목록은 사이트 메뉴 페이지(홈 · 오리지널 · 만화 등)까지 회차로 찍히던 문제 고침. ‘기타’ 는 회차로 쓰지 않음</li><li>그림 받기에 실패한 칸이 빈 바탕으로 찍히던 문제(연달아 열 때 회차 전체가 빈 그림) — 실패한 그림은 다시 받고, 끝내 안 뜨면 저장하지 않고 실패</li></ul><p class="older">v0.7.38 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="101"><h3>Pata 0.7.37<small>2026-11-10</small></h3><ul><li>찍는 방식은 이제 Pata(엔진)가 정함 — 끝까지 · 창 폭 720 · 2배(레티나, 그림 가로 1,440px) · WebP 손실 품질 85 · 모든 part · 좌우 자르기 없음. 목록마다 저장돼 있던 예전 값은 읽지 않음 (저장 폴더 · 숨김 규칙 · 로그인은 그대로)</li><li>파일 이름은 늘 {목록}-{번호}화-partN — 번호는 목록의 읽는 순서대로 1화부터 (외전처럼 번호 없는 회차도 한 화로 셈)</li><li>목록 설정 새 모양 — 머리 색 띠 · 아이콘 탭 세 쪽(기본 · 숨김 규칙 · 기록 · 관리), 엔진이 정하는 값 안내, 복사해서 새 목록 · 보관함 · 목록 삭제는 ‘기록 · 관리’ 쪽으로</li><li>숨김 규칙 줄마다 ‘삭제’, 다른 목록에서 가져오기 · ABP 붙여 넣기는 ‘다른 목록에서…’ 작은 창으로</li><li>없앤 것 — 이미지 변환 화면 · 변환 프로필, 목록 설정 ‘AI로 채우기’, 새 링크 자동 확인(앱 켤 때 · 매일 · 새 링크가 생기면), 해상도 · 저장 형식 · 창 폭 · 어디까지 · 저장할 part · 파일 이름 틀 · 모으기 방법 설정 (링크는 늘 목록 페이지를 끝까지 내리며 1쪽 모음)</li><li>AI(Claude)는 ‘소스로 자동 채우기’ 안에서만 — 규칙으로 회차를 못 찾거나 적게 찾으면 ‘✦ AI로 찾기’ 가 선택자 · 주소 틀을 찾아 소스로 맞춰 보고 보여 줌, ‘넣기’ 를 눌러야 들어감</li><li>레진 일부 회차(외전 등)에서 아직 안 뜬 그림 칸이 글자도 없는 빈 칸이라 긴 검은 띠로 찍히던 문제 — 그림 칸과 같은 모양의 빈 칸도 다 뜰 때까지 기다림</li><li>소장하지 않은 회차(‘작품 구매’ · 대여 창만 뜸)는 저장하지 않고 실패로 — 예전엔 구매 창 한 장이 저장됐음</li><li>안내 상자 왼쪽 줄은 시스템 파랑 (머리 색은 머리 · 스위치 · 주 단추에만)</li><li>설정 창은 늘 지금 보는 데스크탑 · 화면에 뜸 (다른 데스크탑에 열려 있던 창도 이리로)</li><li>회차가 ‘불러오는 중’ 에서 멈추면 한 번 다시 열어 봄 (크롬을 막 켠 뒤 첫 회차에서 가끔)</li><li>화면 표준 — 라이트 색(흰 상자 · 가는 테두리), 글씨 크기 4단계(작게 · 보통 · 크게 · 아주 크게, ⌘= ⌘- ⌘0)에 창 · 단추 크기도 함께, 글씨 크기 자리별 통일. 예전 ‘소 · 중 · 대’ 는 보통 · 크게 · 아주 크게로 옮김</li></ul><p class="older">v0.7.37 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="97"><h3>Pata 0.7.35<small>2026-11-09</small></h3><ul><li>‘캡처한 그림 검사’ (내 목록 링크 위 · 목록 설정 › 기록) — 저장 폴더의 그림을 열어 ‘불러오는 중’ 화면만 · 한 화면뿐 · 파일 일부 없음 · 파일 없음 인 회차를 찾아 회차 줄에 ⚠ 로 표시, ‘문제’ 로 걸러 보기</li><li>문제 회차 ‘다시’ · ‘모두 다시 캡처’ — 잘못 찍힌 파일은 휴지통으로 보내고(되살릴 수 있음) 캡처 표시를 지운 뒤 대기열에 넣어 시작</li></ul><p class="older">v0.7.35 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
@@ -56,7 +57,7 @@ section.sparkle-installed-version ~ section { display: none; }
 <section data-sparkle-version="48"><h3>Pata 0.7.2<small>2026-10-30</small></h3><ul><li>설정을 두 칸으로 (왼쪽: 화면 · 업데이트 · 바뀐 점 · 크롬 · 저장된 값, 오른쪽: 캡처 · 대기열 · 목록 없이 캡처 · 파일) — 넓은 창에서 옆 여백을 쓰고 세로 스크롤을 줄임</li><li>머리 색 견본을 한 줄에 작게, 사이드바 메뉴가 머리 띠에 붙지 않게 위 여백</li></ul><p class="older">v0.7.2 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="47"><h3>Pata 0.7.1<small>2026-10-30</small></h3><ul><li>창 맨 위 머리 색 띠: 로고 · Pata · 버전 · 설정 단추, 오른쪽에 상태(캡처 · 변환 · 크롬 준비됨 · 새 버전) — 창 제목 막대까지 같은 색, 끌어서 창 옮기기</li><li>설정 › 화면 › 머리 색 9가지 (청록 기본 · 파랑 · 남색 · 보라 · 자주 · 다홍 · 호박 · 초록 · 먹색), 밝게·어둡게 따로 맞춤</li><li>‘사이드바 · 주 단추에도 같은 색’ — 사이드바 바탕과 주 단추도 머리 색으로 (끄면 머리만)</li></ul><p class="older">v0.7.1 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="45"><h3>Pata 0.7.0<small>2026-10-30</small></h3><ul><li>앱 안 업데이트: 하루 한 번 새 버전을 확인해 메뉴 막대 아이콘에 점, 창 위에 알림 (‘나중에’ · ‘업데이트…’) — 바뀐 점을 보고 ‘설치’ 를 누르면 받아서 다시 켬</li><li>캡처·변환 중에 설치하면 바로 끄지 않고 대기열이 끝난 뒤 설치 (‘멈추고 지금 설치’ 도 있음)</li><li>설정 › 업데이트: 자동 확인 켜고 끄기 · 마지막 확인 · 지금 확인</li><li>이번 버전만 직접 받아 설치하면 다음부터는 앱이 알려 줌</li></ul><p class="older">v0.7.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.39.zip" length="3247583" type="application/octet-stream" sparkle:edSignature="69xbM763s8qtJqr344rVFW5ODZZHmXIU3fDlbhb/0x8zs6pzOxUnCgl/xthCv5fd3aQuiX2r8W22F/NEn1adAA=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.40.zip" length="3297128" type="application/octet-stream" sparkle:edSignature="AGGk0R0twsHMWFEoZOBM2/lzYRuzi6n8VSAP5zmgSuzESssZ79WWqQFUA8KwStQJ045+o0PqE8gbN8BeCOciAg=="/>
     </item>
   </channel>
 </rss>
