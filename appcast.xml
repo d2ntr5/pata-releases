@@ -3,10 +3,10 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.68</title>
-      <pubDate>Sun, 22 Nov 2026 08:20:01 GMT</pubDate>
-      <sparkle:version>149</sparkle:version>
-      <sparkle:shortVersionString>0.7.68</sparkle:shortVersionString>
+      <title>Pata 0.7.69</title>
+      <pubDate>Sun, 22 Nov 2026 08:44:39 GMT</pubDate>
+      <sparkle:version>150</sparkle:version>
+      <sparkle:shortVersionString>0.7.69</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,7 +19,8 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .older { display: block; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
-<section data-sparkle-version="149"><h3>Pata 0.7.68<span class="badge">설치할 버전</span><small>2026-11-22</small></h3><ul><li>다시 캡처할 때 같은 이름의 기존 파일이 있으면 ‘이름.확장자.old’ 로 옮겨 두고 찍음 (예: 1화-part1.webp → 1화-part1.webp.old, 이미 있으면 .old2) — 예전엔 ‘(1)’ 이름으로 따로 저장해 같은 회차가 두 벌 생겼음. 전부 저장이면 그 회차의 옛 part 를 모두 옮겨 새 part 와 섞이지 않게, 캡처가 실패 · 멈추면 원래 이름으로 되돌림</li></ul><p class="older">v0.7.68 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
+<section data-sparkle-version="150"><h3>Pata 0.7.69<span class="badge">설치할 버전</span><small>2026-11-22</small></h3><ul><li>‘이미 캡처한 페이지 건너뛰기’ 설정을 없앰 — 이미 캡처한 회차를 다시 넣으면 늘 다시 찍고, 같은 이름의 기존 파일은 ‘이름.확장자.old’ 로 옮겨 둠 (사용자 결정 A)</li></ul><p class="older">v0.7.69 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
+<section data-sparkle-version="149"><h3>Pata 0.7.68<small>2026-11-22</small></h3><ul><li>다시 캡처할 때 같은 이름의 기존 파일이 있으면 ‘이름.확장자.old’ 로 옮겨 두고 찍음 (예: 1화-part1.webp → 1화-part1.webp.old, 이미 있으면 .old2) — 예전엔 ‘(1)’ 이름으로 따로 저장해 같은 회차가 두 벌 생겼음. 전부 저장이면 그 회차의 옛 part 를 모두 옮겨 새 part 와 섞이지 않게, 캡처가 실패 · 멈추면 원래 이름으로 되돌림</li></ul><p class="older">v0.7.68 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="148"><h3>Pata 0.7.67<small>2026-11-22</small></h3><ul><li>파일명 변경: 휴재 · 공지 · 특별편 · 에필로그 회차 파일은 이름을 제안하지 않고 ‘제외’ 로 그대로 둠 (캡처하지 않는 회차)</li><li>목록 이름을 바꾸기 전에 찍은 회차(캡처 기록 ‘아씨-17화-part1’ ↔ 파일 ‘레진-아씨-17화-part1’)도 캡처 기록으로 회차를 찾음 — 예전엔 파일 이름 속 번호로 찾아 레진 ‘아씨’ 17화가 공지로 잘못 잡혔음</li></ul><p class="older">v0.7.67 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="146"><h3>Pata 0.7.66<small>2026-11-22</small></h3><ul><li>파일명 변경: NAS 에서 바꾼 파일이 Finder · 다른 앱에 안 보이던 것 고침 — 바꾸는 동안 거치던 임시 이름이 점(.)으로 시작해 NAS 가 숨김 속성을 붙였고 새 이름에도 남았음. 이제 점 없는 임시 이름을 쓰고, 옮긴 파일의 숨김 속성을 지움 (되돌리기도)</li><li>파일명 변경 도중 실패해도 임시 이름으로 남는 파일이 없게 원래 이름으로 돌림. 도중에 앱이 꺼졌으면 다음에 그 목록을 열 때 원래 이름으로 되살림</li><li>‘번호’ 방식을 목록마다 기억 — 예전엔 모든 목록이 한 값을 같이 써서 다른 목록에서 고른 방식으로 수천 개를 잘못 바꿀 수 있었음. 처음엔 지금 파일 이름과 맞는 쪽(바꿀 것이 적은 쪽)을 고르고, 이름을 바꾸면 그 방식을 목록에 저장</li><li>‘제목 속 첫 숫자’ 로 이름을 바꾼 목록은 다음 캡처 파일 이름도 같은 번호 · 이름으로 (바꾼 파일과 새로 찍은 파일 번호가 어긋나지 않게)</li><li>두 화를 합친 회차(‘제1,2화 통합’)는 캡처 · 파일명 변경 모두 ‘1-2화’ 로 (사용자 결정 A — 예전엔 캡처는 2화, 파일명 변경은 1화로 서로 달랐음)</li><li>바꿀 이름과 대소문자만 다른 파일이 이미 있으면 ‘이미 있음’ 으로 건너뜀 (NAS · 맥 디스크는 대소문자를 가리지 않음)</li></ul><p class="older">v0.7.66 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="145"><h3>Pata 0.7.65<small>2026-11-22</small></h3><ul><li>로그: Pata 가 한 일을 종류마다 따로 남김 — 목록 작업(목록 생김 · 지움 · 목록 설정 바뀜 · 새 링크 확인 · 대기열로) 20MB · 캡처 작업(대기열 · 시작 · 쉬는 중 · 끝 · 실패 · 멈춤 · 저장 파일) 100MB · 파일명 변경(파일마다 전 → 후, 숨김 속성 표시) 100MB · 설정 변경(바뀐 값 전 → 후) 20MB. 한도를 넘으면 오래된 것부터 지움(종류마다 파일 5개로 돌려 씀)</li><li>설정 › 일반 › 로그: 로그 기록 켜기 · 끄기, 종류마다 지금 크기 / 한도, 로그 내보내기(zip) · Finder 에서 보기 · 로그 초기화</li></ul><p class="older">v0.7.65 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
@@ -85,7 +86,7 @@ section.sparkle-installed-version ~ section { display: none; }
 <section data-sparkle-version="48"><h3>Pata 0.7.2<small>2026-10-30</small></h3><ul><li>설정을 두 칸으로 (왼쪽: 화면 · 업데이트 · 바뀐 점 · 크롬 · 저장된 값, 오른쪽: 캡처 · 대기열 · 목록 없이 캡처 · 파일) — 넓은 창에서 옆 여백을 쓰고 세로 스크롤을 줄임</li><li>머리 색 견본을 한 줄에 작게, 사이드바 메뉴가 머리 띠에 붙지 않게 위 여백</li></ul><p class="older">v0.7.2 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="47"><h3>Pata 0.7.1<small>2026-10-30</small></h3><ul><li>창 맨 위 머리 색 띠: 로고 · Pata · 버전 · 설정 단추, 오른쪽에 상태(캡처 · 변환 · 크롬 준비됨 · 새 버전) — 창 제목 막대까지 같은 색, 끌어서 창 옮기기</li><li>설정 › 화면 › 머리 색 9가지 (청록 기본 · 파랑 · 남색 · 보라 · 자주 · 다홍 · 호박 · 초록 · 먹색), 밝게·어둡게 따로 맞춤</li><li>‘사이드바 · 주 단추에도 같은 색’ — 사이드바 바탕과 주 단추도 머리 색으로 (끄면 머리만)</li></ul><p class="older">v0.7.1 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="45"><h3>Pata 0.7.0<small>2026-10-30</small></h3><ul><li>앱 안 업데이트: 하루 한 번 새 버전을 확인해 메뉴 막대 아이콘에 점, 창 위에 알림 (‘나중에’ · ‘업데이트…’) — 바뀐 점을 보고 ‘설치’ 를 누르면 받아서 다시 켬</li><li>캡처·변환 중에 설치하면 바로 끄지 않고 대기열이 끝난 뒤 설치 (‘멈추고 지금 설치’ 도 있음)</li><li>설정 › 업데이트: 자동 확인 켜고 끄기 · 마지막 확인 · 지금 확인</li><li>이번 버전만 직접 받아 설치하면 다음부터는 앱이 알려 줌</li></ul><p class="older">v0.7.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.68.zip" length="3607880" type="application/octet-stream" sparkle:edSignature="CUk7MNg3SG1KCE3G9Rt7vGENZMp1pMoMf3BaR2ZWLmGserMdd7i7a8XzEpBzQJwXi9++XgfOqwfXaTllCEodAg=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.69.zip" length="3607779" type="application/octet-stream" sparkle:edSignature="RtiGfQLGu9MtunIB+mM3e9Jhx+RdSk/REkKZSf44P7xNtcWM2hUmO6bc8DwqhoskEvqhQT3YsDpXhX6GoFvLDw=="/>
     </item>
   </channel>
 </rss>
