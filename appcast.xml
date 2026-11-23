@@ -3,10 +3,10 @@
   <channel>
     <title>Pata</title>
     <item>
-      <title>Pata 0.7.74</title>
-      <pubDate>Mon, 23 Nov 2026 00:11:28 GMT</pubDate>
-      <sparkle:version>156</sparkle:version>
-      <sparkle:shortVersionString>0.7.74</sparkle:shortVersionString>
+      <title>Pata 0.7.75</title>
+      <pubDate>Mon, 23 Nov 2026 00:49:17 GMT</pubDate>
+      <sparkle:version>157</sparkle:version>
+      <sparkle:shortVersionString>0.7.75</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,7 +19,8 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .older { display: block; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
-<section data-sparkle-version="156"><h3>Pata 0.7.74<span class="badge">설치할 버전</span><small>2026-11-23</small></h3><ul><li>웹툰 폴더마다 회차 인덱스 pata-index.json — 회차마다 Katha 키(#86 · #86a) · 사이트 번호 · 제목 · 날짜 · 소장중/무료 · 본편/특별편/외전/공지 · 주소 · 저장한 그림 파일 · 썸네일. 켤 때 · 새 링크 확인 · 캡처할 때마다 고쳐 씀 (Katha 가 읽어 회차 목록에 보임)</li><li>새 링크 확인 때 회차 목록의 썸네일 주소도 읽어, 웹툰 폴더 아래 #thumbs/086.jpg 처럼 받아 둠 (# 로 시작해 Katha 가 회차 폴더로 보지 않음)</li></ul><p class="older">v0.7.74 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
+<section data-sparkle-version="157"><h3>Pata 0.7.75<span class="badge">설치할 버전</span><small>2026-11-23</small></h3><ul><li>설정 › 로그의 「로그 초기화…」 단추 글자를 기본 글자색으로 (확인 창 안의 「로그 초기화」만 빨강, 앱 공통 표준)</li></ul><p class="older">v0.7.75 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
+<section data-sparkle-version="156"><h3>Pata 0.7.74<small>2026-11-23</small></h3><ul><li>웹툰 폴더마다 회차 인덱스 pata-index.json — 회차마다 Katha 키(#86 · #86a) · 사이트 번호 · 제목 · 날짜 · 소장중/무료 · 본편/특별편/외전/공지 · 주소 · 저장한 그림 파일 · 썸네일. 켤 때 · 새 링크 확인 · 캡처할 때마다 고쳐 씀 (Katha 가 읽어 회차 목록에 보임)</li><li>새 링크 확인 때 회차 목록의 썸네일 주소도 읽어, 웹툰 폴더 아래 #thumbs/086.jpg 처럼 받아 둠 (# 로 시작해 Katha 가 회차 폴더로 보지 않음)</li></ul><p class="older">v0.7.74 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="155"><h3>Pata 0.7.73<small>2026-11-23</small></h3><ul><li>로그 내보내기 zip 에 맥 부가 정보 파일(._app.log 같은 것)이 섞이지 않게</li></ul><p class="older">v0.7.73 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="154"><h3>Pata 0.7.72<small>2026-11-22</small></h3><ul><li>‘파일명 변경’ 화면을 없앰 (저장된 파일 전부에 사이트 회차 번호를 붙여 더 쓸 일이 없음, 사용자 지시) — 위쪽 단추는 내 목록 · 진행 · 기록 둘, 파일명 변경 로그도 없앰(남아 있던 rename.log 는 지움)</li><li>설정에 ‘로그’ 탭 (업데이트 앞, 앱 공통 표준) — 일반 탭의 로그 묶음을 옮김. 로그마다 켜기 · 끄기 · 크기(지금 / 한도 · 파일 수 · 막대) · 지우기…, 모두 켜기 · 모두 끄기, 로그 내보내기… · Finder에서 보기 · 로그 초기화…</li><li>로그 종류에 ‘앱’(켤 때 · 끌 때 · 저장 실패, 20 MB)과 ‘업데이트’(확인 · 결과 · 통신 문제 · 설치 시작, 5 MB)를 더함, 설정 변경 로그 한도는 표준대로 5 MB</li><li>로그 자리를 ~/Library/Logs/Pata 로 옮김 (예전 자리의 로그는 처음 켤 때 옮기고 예전 폴더는 지움). 예전 전체 스위치를 꺼 뒀으면 모든 로그를 끈 채로</li><li>내보내기는 영문 이름 Pata-logs-날짜-시각.zip, 안에 모든 로그 · 지난 파일과 info.txt(버전 · 빌드 · macOS · CPU · 로그마다 켬/끔 · 크기) · chrome/chrome-stderr.log(크롬이 남긴 메시지)</li></ul><p class="older">v0.7.72 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="152"><h3>Pata 0.7.71<small>2026-11-22</small></h3><ul><li>파일 이름 맨 앞에 사이트 회차 번호 (예: 086-레진-남자가-없는-이세계-89화-part1.webp) — 새로 캡처하는 파일부터. 레진은 제목 맨 앞 숫자, 탑툰은 ‘제N화’, 카카오는 ‘N화’ · ‘Log N’. 본편 사이에 낀 특별편은 086a, 본편 뒤 외전은 번호를 이어 붙임, 첫 회차 앞 예고편은 000, 합친 회차는 001~002 (Katha 가 이 번호로 회차를 묶고 정렬)</li><li>파일명 변경 ‘번호’ 에 ‘사이트 회차 번호를 앞에 (086-원래이름)’ — 기본값. 원래 이름은 그대로 두고 앞에만 붙이며, 공지 · 후기 회차 파일은 ‘이름.old’ 로. 같은 회차 part 들은 함께 판단(낡은 캡처 기록 한 줄에 끌려가지 않게). 다른 방식은 앞 번호가 붙은 파일을 건드리지 않음</li></ul><p class="older">v0.7.71 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
@@ -91,7 +92,7 @@ section.sparkle-installed-version ~ section { display: none; }
 <section data-sparkle-version="48"><h3>Pata 0.7.2<small>2026-10-30</small></h3><ul><li>설정을 두 칸으로 (왼쪽: 화면 · 업데이트 · 바뀐 점 · 크롬 · 저장된 값, 오른쪽: 캡처 · 대기열 · 목록 없이 캡처 · 파일) — 넓은 창에서 옆 여백을 쓰고 세로 스크롤을 줄임</li><li>머리 색 견본을 한 줄에 작게, 사이드바 메뉴가 머리 띠에 붙지 않게 위 여백</li></ul><p class="older">v0.7.2 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="47"><h3>Pata 0.7.1<small>2026-10-30</small></h3><ul><li>창 맨 위 머리 색 띠: 로고 · Pata · 버전 · 설정 단추, 오른쪽에 상태(캡처 · 변환 · 크롬 준비됨 · 새 버전) — 창 제목 막대까지 같은 색, 끌어서 창 옮기기</li><li>설정 › 화면 › 머리 색 9가지 (청록 기본 · 파랑 · 남색 · 보라 · 자주 · 다홍 · 호박 · 초록 · 먹색), 밝게·어둡게 따로 맞춤</li><li>‘사이드바 · 주 단추에도 같은 색’ — 사이드바 바탕과 주 단추도 머리 색으로 (끄면 머리만)</li></ul><p class="older">v0.7.1 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>
 <section data-sparkle-version="45"><h3>Pata 0.7.0<small>2026-10-30</small></h3><ul><li>앱 안 업데이트: 하루 한 번 새 버전을 확인해 메뉴 막대 아이콘에 점, 창 위에 알림 (‘나중에’ · ‘업데이트…’) — 바뀐 점을 보고 ‘설치’ 를 누르면 받아서 다시 켬</li><li>캡처·변환 중에 설치하면 바로 끄지 않고 대기열이 끝난 뒤 설치 (‘멈추고 지금 설치’ 도 있음)</li><li>설정 › 업데이트: 자동 확인 켜고 끄기 · 마지막 확인 · 지금 확인</li><li>이번 버전만 직접 받아 설치하면 다음부터는 앱이 알려 줌</li></ul><p class="older">v0.7.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p></section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.74.zip" length="3494627" type="application/octet-stream" sparkle:edSignature="jjz1+vPaWSUAZ8jRDmdeu2mT1a/Rrlec0mOMLPjRYs9BYhHSSlBJLZgR5gmh1vLn/WT1s2d8eyZkAtHw00izDg=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/pata-releases/main/releases/pata-v0.7.75.zip" length="3494356" type="application/octet-stream" sparkle:edSignature="Uex03ukB3pElu+P49Kk+FdOAO1KqytMMrIwWhbxO6McVwAlco9Nu+P4v6GTUoHZjJQfCpOlX/QKsOb+Pu1vTCA=="/>
     </item>
   </channel>
 </rss>
